@@ -18,7 +18,7 @@ The core idea is to first align heterogeneous biomedical features into comparabl
 ## OverView
 
 <p align="center">
-  <img src="assets/overview.png" width="100%" alt="Overview of the UKBCausal framework">
+  <img src="assets/OverView.png" width="100%" alt="Overview of the UKBCausal framework">
 </p>
 
 
